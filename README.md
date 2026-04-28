@@ -10,17 +10,17 @@ Previously Senior Navigation Officer aboard HDMS Absalon. Now building at the in
 
 ## Featured Projects
 
-### [Adversarial Reinforcement Learning in Naval Warfare](https://github.com/MBach0707/adversarial_reinforcement_learning_naval_warfare)
+### [Adversarial Reinforcement Learning in Naval Warfare](https://github.com/michael-bach/adversarial_reinforcement_learning_naval_warfare)
 MSc thesis project. Two independent TD3 agents command opposing fleets in a continuous 200×200 km battlespace, co-evolving adversarially to produce emergent naval tactics — wolfpack, ambush, escort, hit-and-run — without explicit programming.
 
 `PyTorch` · `TorchRL` · `Gymnasium` · `W&B` · `pytest` · `GitHub Actions CI`
 
-### [Drone RL Control](https://github.com/MBach0707/drone_rl_control)
+### [Drone RL Control](https://github.com/michael-bach/drone_rl_control)
 Reinforcement learning control for a DJI Tello drone using a 24GHz radar as the sole sensor modality — no camera, no CCTV. Custom observation space and reward shaping for radar-only state estimation.
 
 `Python` · `Reinforcement Learning` · `Radar sensing`
 
-### [Restaurant AI Agent Backend](https://github.com/MBach0707/booking_agent)                 
+### [Restaurant AI Agent Backend](https://github.com/michael-bach/restaurant_backend)                 
 Multi-tenant SaaS backend where a LangGraph supervisor routes natural-language guest requests to three specialised ReAct agents — one for Google Calendar bookings, one for Gmail inbox management, and one for FAQ queries — each running autonomously with per-tenant credentials and Postgres-persisted session memory.
 
 `Python` · `FastAPI` · `LangGraph` · `Claude (Anthropic)` · `Google Calendar API` · `Gmail API` · `PostgreSQL` · `Alembic` · `Docker`
