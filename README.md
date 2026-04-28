@@ -20,7 +20,10 @@ Reinforcement learning control for a DJI Tello drone using a 24GHz radar as the 
 
 `Python` · `Reinforcement Learning` · `Radar sensing`
 
----
+### [Restaurant AI Agent Backend](https://github.com/MBach0707/booking_agent)                 
+Multi-tenant SaaS backend where a LangGraph supervisor routes natural-language guest requests to three specialised ReAct agents — one for Google Calendar bookings, one for Gmail inbox management, and one for FAQ queries — each running autonomously with per-tenant credentials and Postgres-persisted session memory.
+
+`Python` · `FastAPI` · `LangGraph` · `Claude (Anthropic)` · `Google Calendar API` · `Gmail API` · `PostgreSQL` · `Alembic` · `Docker`
 
 ## Skills
 
