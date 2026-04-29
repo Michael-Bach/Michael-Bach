@@ -4,8 +4,6 @@
 
 MSc Computational Physics (University of Copenhagen). Thesis in adversarial multi-agent reinforcement learning for naval tactical decision-making, developed in collaboration with Terma A/S.
 
-Previously Senior Navigation Officer aboard HDMS Absalon. Now building at the intersection of autonomous systems, reinforcement learning, and defence-adjacent AI.
-
 ---
 
 ## Featured Projects
