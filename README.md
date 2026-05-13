@@ -38,7 +38,7 @@ Domain                   Autonomous systems · defence AI · naval operations ·
 ## Background
 
 - **MSc Computational Physics** — University of Copenhagen (2025). Thesis: *Adversarial MARL for Naval Tactical Decision-Making* (Terma A/S collaboration)
-- **Lieutenant Commander, Royal Danish Navy** — Senior Navigation Officer, HDMS Absalon. International deployments; tactical planning under time-critical operational conditions.
+- **Lieutenant Commander, Royal Danish Navy** — Senior Navigation Officer, HDMS Absalon.
 
 ---
 
